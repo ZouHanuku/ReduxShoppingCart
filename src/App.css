@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+ul li {
+  margin: 50px
+}
