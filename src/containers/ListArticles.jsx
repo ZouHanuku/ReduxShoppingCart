@@ -53,5 +53,4 @@ const mapDispatchToProps = (dispatch) => {
   return bindActionCreators({ addArticle }, dispatch)
 }
 
-
 export default connect(mapStateToProps, mapDispatchToProps)(ListArticles);
